@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.pa.util.function;
+package pa.util.function;
 
 import org.junit.Test;
 
@@ -23,8 +23,8 @@ import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-import static com.pa.util.function.Predicates.*;
 import static org.junit.Assert.*;
+import static pa.util.function.Predicates.*;
 
 /**
  * Tests of Predicates class

@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.pa.util.function;
+package pa.util.function;
 
 import org.junit.Test;
 
 import java.util.List;
 
-import static com.pa.util.function.NullSafeUtils.*;
 import static org.junit.Assert.*;
+import static pa.util.function.NullSafeUtils.*;
 
 /**
  * Tests of NullSafeUtils class

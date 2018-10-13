@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.pa.util.function;
+package pa.util.function;
 
 import java.util.function.Predicate;
 import java.util.function.Supplier;
